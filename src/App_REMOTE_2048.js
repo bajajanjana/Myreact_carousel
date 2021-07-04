@@ -85,11 +85,7 @@ export default function App() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-<<<<<<< HEAD
-          <img src="image/ClassicalMusic.jpg" />
-=======
           <img src="image/classicaldance.jpg" />
->>>>>>> a0fab672a0f54f7130679dec6192c705548284b4
           <div className="details">
           <p className="course-name text-center mt-1">Classical Music
           <strong><h5 className="text-center">Full Course Price:</h5></strong>
